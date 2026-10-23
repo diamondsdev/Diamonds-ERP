@@ -1,0 +1,6 @@
+{
+  "name": "Diamonds ERP",
+  "description": "Intelligent, unified enterprise resource planning software connecting operations, inventory, finance, and workflows in one precision platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
